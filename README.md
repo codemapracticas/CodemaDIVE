@@ -2,7 +2,7 @@
 
 Desarrollo de una estación medidora de la calidad del agua y una aplicación para SmartPhones que permite su control a distancia y análisis de las mediciones. Este desarrollo se realizó para la IV edición de las Teleco Games (Olimpiada de Ingeniería de Telecomunicaciones).
 
-Esta competición se desarrollo en la Escuela Politécnica de Ingeniería de Gijón (EPI) en abril de 2026.
+Esta competición se desarrolló en la Escuela Politécnica de Ingeniería de Gijón (EPI) en abril de 2026.
 
 https://olimpiadasteleco.com/
 
